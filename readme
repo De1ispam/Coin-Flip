@@ -1,0 +1,17 @@
+1/21/23
+
+This is a simple coin flip game created as a way to scale down my Odin Project RPS program to smaller parts for easier coding and debugging.
+
+I found benefit to it as one of the core components to problem solving is stripping down the problem to smaller parts. 
+
+I found this a good exercise because it allowed me to build a similar program twice. 
+
+I imagine it can also be a bonus project for front end dev experiences and it’s easily customizable. 
+
+
+Anticipated additions will include:
+
+-A scoreboard on  the main page
+-Being able to follow  the game directly from the page instead of the consol
+-Style/Design
+
